@@ -1,6 +1,0 @@
-#addition function
-
-def my_addition(num1, num2)
-	
-end
-
