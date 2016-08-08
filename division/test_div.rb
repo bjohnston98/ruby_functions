@@ -9,4 +9,10 @@ class TestDivision<Minitest::Test
 		assert_equal(5, my_division(10,2))
 		#
 	end
+
+	def test__div_negative_7_equals_14_div_neg_2
+		assert_equal(-7, my_division(14,-2))
+		#
+	end
 end
+
